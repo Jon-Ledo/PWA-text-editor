@@ -10,14 +10,6 @@ To build this text editor, you will start with an existing application and imple
 
 You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
-## User Story
-
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
-```
-
 ## Acceptance Criteria
 
 ```md
@@ -27,38 +19,6 @@ THEN I download my web application as an icon on my desktop
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
-
-## Mock-Up
-
-The following animation demonstrates the application functionality:
-
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
-
-The following image shows the application's `manifest.json` file:
-
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
-
-The following image shows the application's registered service worker:
-
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
-
-The following image shows the application's IndexedDB storage:
-
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
-
-## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> - A repository that has no code
->
-> - A repository that includes a unique name but nothing else
->
-> - A repository that includes only a README file but nothing else
->
-> - A repository that only includes starter code
-
-This Challenge is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
